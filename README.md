@@ -1,4 +1,4 @@
-# Udacity_DCND_Capstone
+# Udacity_DCND_Capstone Project
 Arvarto Financial Solutions
 
 # Installation
