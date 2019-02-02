@@ -30,4 +30,4 @@ NB: The dataset is not provided for privary reasons
 # Authors, Licensing, Acknowledgements
 Nelson Zange Tsaku
 Licensing Code and documentation copyright 2018 the Author's Code released under Udacity License
-Thanks to the Udacity Community for related support
+Thanks to the Udacity Community for related support 
