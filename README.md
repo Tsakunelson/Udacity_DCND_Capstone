@@ -1,4 +1,4 @@
-# Udacity_DCND_Capstone Project
+# Udacity Data Scientist Nanodegree Capstone Project
 Arvarto Financial Solutions
 
 # Installation
